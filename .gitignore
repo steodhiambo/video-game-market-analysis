@@ -1,0 +1,15 @@
+# Dataset files
+*.csv
+vgsales.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+env/
