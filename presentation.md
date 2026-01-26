@@ -62,7 +62,7 @@
 ---
 
 ## Slide 4: Japan vs North America - The Genre Battle
-### 🥊 Direct Regional Comparison Analysis
+###  Direct Regional Comparison Analysis
 
 **Head-to-Head Genre Performance:**
 
@@ -73,7 +73,7 @@
 | Sports | 134.76 | 670.09 | 20.0% | 20.1% | 0.20x |
 | Shooter | 45.23 | 575.16 | 6.7% | 17.2% | 0.08x |
 
-**🔥 Critical Regional Insights:**
+** Critical Regional Insights:**
 - **RPG Dominance in Japan:** 2.21x higher preference than NA
 - **Action Gap:** NA prefers Action 5.4x more than Japan
 - **Sports Parity:** Similar preference levels (20% vs 20.1%)
@@ -115,7 +115,7 @@
 ---
 
 ## Slide 6: Publisher Hit Rate Methodology & Rankings
-### 🎯 Precise Efficiency Analysis - Who Delivers Consistent Success?
+###  Precise Efficiency Analysis - Who Delivers Consistent Success?
 
 **Hit Rate Calculation Method:**
 ```
@@ -150,7 +150,7 @@ Data Period: 1980-2020 (40 years)
 ---
 
 ## Slide 7: Genre-Platform Combinations
-### 🎯 Winning Formulas
+###  Winning Formulas
 
 **Top Performing Combinations (5+ games):**
 
@@ -211,7 +211,7 @@ Data Period: 1980-2020 (40 years)
 ---
 
 ## Slide 9: Risk Assessment
-### ⚠️ Potential Challenges & Mitigation
+###  Potential Challenges & Mitigation
 
 **High Risk Factors:**
 - Platform transition timing (30% impact)
@@ -236,8 +236,7 @@ Data Period: 1980-2020 (40 years)
 ## Slide 10: Final Strategic Recommendation
 ### 🚀 The Winning Formula
 
-**RECOMMENDED STRATEGY:**
-
+**RECOMMENDED STRATEGY:*
 ### 🎯 **Action-RPG Hybrid Game**
 **Target Platforms:** PS4/Xbox One (current-gen focus)
 **Primary Markets:** Japan + North America
